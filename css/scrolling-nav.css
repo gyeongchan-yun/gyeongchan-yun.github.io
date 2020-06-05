@@ -21,3 +21,12 @@ section {
   background-repeat: no-repeat;
   height: 45vh;
 }
+
+.row {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+p.about-me {
+  margin-top: 1rem;
+}
