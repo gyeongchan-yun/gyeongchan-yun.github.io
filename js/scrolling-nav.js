@@ -26,8 +26,4 @@
     offset: 56
   });
 
-  $(window).on('load', function(){
-    $("#page-loading").css("display", "none");
-  });
-
 })(jQuery); // End of use strict
