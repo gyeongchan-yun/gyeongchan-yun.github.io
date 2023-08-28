@@ -2,10 +2,10 @@
 My github profile page
 
 # Startbootstrap Template
-- [Scrolling Nav](https://startbootstrap.com/templates/scrolling-nav/)
+- [Scrolling Nav](https://startbootstrap.com/previews/scrolling-nav/)
 
 # font-awesome CSS
-- [font-awesome css v.4.7.0](https://fontawesome.com/v4.7.0/)
+- [font-awesome css v.4.7.0](https://fontawesome.com/v4/get-started/)
 - Download file and move the directory here
 
 # References
